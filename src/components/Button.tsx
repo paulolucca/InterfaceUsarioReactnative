@@ -12,7 +12,7 @@ export function Button({title, ...rest } :Props) {
     //cor de fundo
     bg="green.700"
     //tamanho
-    h={14}
+    h={24}
     //fontes da letra
     fontSize="sm"
     //arrodandamento dos cantos
